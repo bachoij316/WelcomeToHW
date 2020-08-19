@@ -2,11 +2,11 @@
 
 Welcome to Hogwarts! is a simple website that implemented with using React.js.
 
-App.js
-Images.js
-GryffindorInfo.js
-HufflepuffInfo.js
-RavenclawInfo.js
+App.js,
+Images.js,
+GryffindorInfo.js,
+HufflepuffInfo.js,
+RavenclawInfo.js,
 SlytherinInfo.js
 These are main files I worked on for this project, all the algorithms and logic of state and properties of React.js can be found here.
 
